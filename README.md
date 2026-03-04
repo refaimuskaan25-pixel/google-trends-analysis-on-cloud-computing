@@ -141,4 +141,4 @@ Compare search interest of brands or technologies to evaluate market positioning
 * Predictive modeling using Machine Learning
 * Interactive web dashboard integration
 
-![Analysis]("C:\Users\user\Downloads\imageeeeeeeeee.png")
+<img width="1536" height="1024" alt="image" src=""C:\Users\user\Downloads\imageeeeeeeeee.png"" />
