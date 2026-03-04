@@ -1,9 +1,3 @@
-Perfect 👌
-Here is a **professional README content** you can directly paste into your GitHub repository for your Google Trends project.
-
-This is formal, clean, and internship-ready.
-
----
 
 # 📊 Google Trend Analysis Project
 
@@ -141,4 +135,6 @@ Compare search interest of brands or technologies to evaluate market positioning
 * Predictive modeling using Machine Learning
 * Interactive web dashboard integration
 
-<img width="1536" height="1024" alt="image" src=""C:\Users\user\Downloads\imageeeeeeeeee.png"" />
+<img width="1536" height="1023" alt="image" src="https://github.com/user-attachments/assets/2a0ee14c-938e-414d-9020-e5cfc61ab685" />
+
+"" />
